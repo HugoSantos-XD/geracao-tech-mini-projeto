@@ -1,0 +1,13 @@
+Vou mandar os códigos para iniciar o servidor vai que algum(a) colega precise. 
+
+
+// Criando a API de consulta
+
+//npm init -y
+// Cria o pacote "package.json"
+
+// npm install json-server@0.17.4
+// Esse pacote simulara uma API que vai ser consumida, por meio de 5 verbos http GET, POST, PUT, PATH e DELETE
+
+//npx json-server api.json --watch --port3000
+//Start o servidor criado
